@@ -25,7 +25,3 @@ Students can also access their personal disciplinary records, view their recorde
 The project incorporates security features such as user authentication, email OTP verification, role-based access control, and account protection to help prevent unauthorized access to confidential information.
 
 Through this project, MEDU-ISA (IT-35) aims to demonstrate how information technology can improve the efficiency, accessibility, accuracy, and security of disciplinary record management in educational institutions.
-
-Project Title: Secure Student Disciplinary Records System (SSDRS)
-Section: IT-35
-Group Name: MEDU-ISA
