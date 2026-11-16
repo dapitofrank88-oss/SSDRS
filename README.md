@@ -1,7 +1,7 @@
 # SSDRS
 Secure Student Disciplinary Records System (SSDRS)
 
-Project File Description
+Project File 
 
 Section: IT-35
 Group Name: MEDU-ISA
@@ -15,7 +15,6 @@ Group Members:
 5. Joeben Manalo
 6. Charrie Elyse Reyes
 
-Project Description
 
 The Secure Student Disciplinary Records System (SSDRS) is a web-based application designed to provide a secure, organized, and efficient way of managing student disciplinary records within an educational institution.
 
